@@ -6,7 +6,7 @@
       {
         "id": "cc064b0dcd103ccb",
         "type": "tabs",
-        "dimension": 61.94353963083606,
+        "dimension": 47.88273615635179,
         "children": [
           {
             "id": "0647d3da0bb84283",
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Sprawl/Gameplay/Maneuvres.md",
+                "file": "The Sprawl/Ghost Protocol.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -63,16 +63,15 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Maneuvres"
+              "title": "Ghost Protocol"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "ca153f3643ad7eb6",
         "type": "tabs",
-        "dimension": 38.05646036916395,
+        "dimension": 52.11726384364821,
         "children": [
           {
             "id": "5109f438aafda39d",
@@ -143,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "55487f65710806ba",
@@ -257,12 +257,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "433da6d9d9113170",
+  "active": "0647d3da0bb84283",
   "lastOpenFiles": [
+    "The Sprawl/Gameplay/Cybernétique.md",
+    "The Sprawl/Gameplay/Tags.md",
     "The Sprawl/Ghost Protocol.md",
     "The Sprawl/Gameplay/Maneuvres.md",
-    "The Sprawl/Gameplay/Tags.md",
-    "The Sprawl/Gameplay/Cybernétique.md",
     "The Sprawl/Gameplay/The_Sprawl_VF_1.2.pdf",
     "The Sprawl/Gameplay/Maneuvres",
     "The Sprawl/Gameplay/Untitled.md",

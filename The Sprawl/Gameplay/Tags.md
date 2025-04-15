@@ -18,3 +18,5 @@
 + thermographique : permet de distinguer les émissions de chaleur dans le spectre infrarouge.
 + vitesse élevée : permet de transférer et d’accéder à des données beaucoup plus rapidement.
 + zoom : permet de voir avec une amplitude plus importante. Cela n’influence pas la précision avec une arme.
+
+# [[Armes]]

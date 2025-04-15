@@ -16,4 +16,3 @@ Pour combien de temps ? Ça, personne ne le sait.
 - [[Tags]]
 - [[Armes]]
 - [[Cybernétique]]
-- [[Maneuvres]]
