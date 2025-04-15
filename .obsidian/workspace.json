@@ -241,7 +241,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 401.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,7 +257,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "89fa7fabe2f575b5",
+  "active": "0647d3da0bb84283",
   "lastOpenFiles": [
     "The Sprawl/Gameplay/Cybernétique.md",
     "The Sprawl/Gameplay/Tags.md",
