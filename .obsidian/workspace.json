@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5be29853ca5cd89e",
+        "id": "44a281caa51f6a7e",
         "type": "tabs",
         "children": [
           {
-            "id": "71f14f80a185e115",
+            "id": "d334109b931deb32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/ShortCuts/Clock.md",
+                "file": "The Sprawl/Test solo RPG.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Clock"
+              "title": "Test solo RPG"
             }
           }
         ]
@@ -201,7 +201,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "71f14f80a185e115",
+  "active": "d334109b931deb32",
   "lastOpenFiles": [
     "The Sprawl/Test solo RPG.md",
     "Templates/ShortCuts/Clock.md",
