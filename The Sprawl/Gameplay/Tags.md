@@ -22,11 +22,8 @@
 # [[Armes]]
 
 + antiblindage : ces armes créent d’énormes brèches dans les surfaces solides comme les murs et les chars. Elles possèdent les étiquettes `+perforant` et `+bruyant` et ne peuvent être rendues silencieuses.
-+ automatique : le tireur peut choisir de temporairement donner à l’arme les étiquettes +zone et +recharge. Si l’arme est alimentée par
-bandes de munitions, le tireur peut choisir de donner temporaire-
-ment à l’arme la seule étiquette +zone.
-+bruyant : le son est facilement reconnaissable, tout le monde à
-proximité peut l’entendre et, si les circonstances le permettent, tout
++ automatique : le tireur peut choisir de temporairement donner à l’arme les étiquettes `+zone` et `+recharge`. Si l’arme est alimentée par bandes de munitions, le tireur peut choisir de donner temporairement à l’arme la seule étiquette `+zone`.
++ bruyant : le son est facilement reconnaissable, tout le monde à proximité peut l’entendre et, si les circonstances le permettent, tout
 le monde est également capable d’identifier sa provenance.
 +carnage : le résultat du tir est erratique et lorsqu’il touche des
 gens ou des objets, il en met partout. Si une arme possède les éti-
