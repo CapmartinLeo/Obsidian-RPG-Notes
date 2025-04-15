@@ -11,3 +11,9 @@ Payés à la mission, loyaux à personne sauf peut-être à votre cause. Que vou
 
 Pour combien de temps ? Ça, personne ne le sait.
 
+
+# Quick access
+- [[Tags]]
+- [[Armes]]
+- [[Cybernétique]]
+- [[Maneuvres]]
