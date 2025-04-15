@@ -20,4 +20,36 @@
 + zoom : permet de voir avec une amplitude plus importante. Cela n’influence pas la précision avec une arme.
 
 # [[Armes]]
+
++ antiblindage : ces armes créent d’énormes brèches dans les surfaces solides comme les murs et les chars. Elles possèdent les étiquettes `+perforant` et `+bruyant` et ne peuvent être rendues silencieuses.
++ automatique : le tireur peut choisir de temporairement donner à l’arme les étiquettes +zone et +recharge. Si l’arme est alimentée par
+bandes de munitions, le tireur peut choisir de donner temporaire-
+ment à l’arme la seule étiquette +zone.
++bruyant : le son est facilement reconnaissable, tout le monde à
+proximité peut l’entendre et, si les circonstances le permettent, tout
+le monde est également capable d’identifier sa provenance.
++carnage : le résultat du tir est erratique et lorsqu’il touche des
+gens ou des objets, il en met partout. Si une arme possède les éti-
+quettes +carnage et +bruyant, elle ne peut être rendue silencieuse.
++connecté : l’arme peut être reliée à une interface neurale (et un
+logiciel de visée).
++dangereux : sur un raté, le tireur subit des dégâts.
++discret : l’arme peut aisément être camouflée et sera souvent
+négligée lors d’une fouille.
++encombrant : cette arme ou cette armure est trop grande et
+gêne les mouvements. Il peut ainsi être difficile de se déplacer rapide-
+ment, discrètement, ou dans des espaces confinés en la portant. Les
+armes avec l’étiquette +encombrant nécessitent généralement une
+position de tir allongée ou solidement calée, ou bien une sorte d’exos-
+quelette gyroscopique.
++fléchettes : la valeur d’armure de la cible est doublée.
++nombreux : ces armes sont faciles à camoufler (elles possèdent
+l’étiquette +discret) et il y en a toujours à disposition si nécessaire.
++rapide : si la vitesse importe, les armes possédant l’étiquette
++rapide tirent en premier.
++recharge : après avoir fait feu, le tireur doit prendre un moment
+pour recharger l’arme.
++perforant : la cible de munitions perforantes soustrait 2 points à
+sa valeur d’armure.
++zone : l’arme blesse toute personne prise dans l’aire d’effet.
 ## Armes de Porté
