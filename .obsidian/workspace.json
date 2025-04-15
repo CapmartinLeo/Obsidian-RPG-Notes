@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Sprawl/Test solo RPG.md",
+                "file": "The Sprawl/Ghost Protocol.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Test solo RPG"
+              "title": "Ghost Protocol"
             }
           }
         ]
@@ -186,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 250.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,11 +203,25 @@
   },
   "active": "0647d3da0bb84283",
   "lastOpenFiles": [
+    "The Sprawl/Lieux/New California.md",
+    "The Sprawl/Missions/Empty.md",
+    "The Sprawl/PNJ/Empty.md",
+    "The Sprawl/PJ/Empty.md",
+    "The Sprawl/Ghost Protocol.md",
+    "The Sprawl/Random notes.md",
+    "The Sprawl/Lore/Embargo.md",
+    "The Sprawl/Lore",
+    "The Sprawl/Corpos/Tokyo CybernetiX.md",
+    "The Sprawl/Missions",
+    "The Sprawl/Untitled.md",
+    "The Sprawl/PJ",
+    "The Sprawl/Corpos",
+    "The Sprawl/Lieux",
+    "The Sprawl/PNJ",
     "The Sprawl/Test solo RPG.md",
     "Templates/ShortCuts/Clock.md",
     "Untitled.canvas",
     "Templates/ShortCuts/Untitled.md",
-    "Untitled.md",
     "Templates/Pages",
     "Templates/ShortCuts",
     "Templates",
@@ -222,15 +236,12 @@
     "Decks/Tarot/13-Death.png",
     "Decks/Tarot/12-TheHangedMan.png",
     "Decks/Tarot",
-    "Decks/Standard",
-    "Decks",
     "The Sprawl/Killer.md",
     "The Sprawl/Hacker.md",
     "The Sprawl/CybernetiX Tower.md",
     "The Sprawl/The Sprawl.md",
     "The Sprawl/Tokyo CybernetiX.md",
     "The Sprawl/TestClock.md",
-    "The Sprawl",
     "Welcome.md"
   ]
 }
