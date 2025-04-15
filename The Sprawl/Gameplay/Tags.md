@@ -35,4 +35,12 @@
 + recharge : après avoir fait feu, le tireur doit prendre un moment pour recharger l’arme.
 + perforant : la cible de munitions perforantes soustrait 2 points àsa valeur d’armure.
 + zone : l’arme blesse toute personne prise dans l’aire d’effet.
-## Armes de Porté
+
+## Etiquettes de Porté
+
++ intime : correspond à une proximité suffisante pour embrasser la cible.
++ contact : correspond à une proximité suffisante pour toucher la cible.
++ courte : correspond à une distance de quelques pas de la cible.
++ proche : correspond à une distance de quelques dizaines de mètres de la cible.
++ longue : correspond à une distance de la cible inférieure à un pâté de maisons.
++ extrême : correspond à une distance de plusieurs centaines de mètres de la cible.
