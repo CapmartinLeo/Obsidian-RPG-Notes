@@ -221,7 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,7 +236,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0647d3da0bb84283",
+  "active": "89fa7fabe2f575b5",
   "lastOpenFiles": [
     "The Sprawl/Ghost Protocol.md",
     "The Sprawl/Gameplay/Cybernétique.md",

@@ -33,10 +33,10 @@
 + nombreux : ces armes sont faciles à camoufler (elles possèdent l’étiquette `+discret`) et il y en a toujours à disposition si nécessaire.
 + rapide : si la vitesse importe, les armes possédant l’étiquette `+rapide` tirent en premier.
 + recharge : après avoir fait feu, le tireur doit prendre un moment pour recharger l’arme.
-+ perforant : la cible de munitions perforantes soustrait 2 points àsa valeur d’armure.
++ perforant : la cible de munitions perforantes soustrait 2 points à sa valeur d’armure.
 + zone : l’arme blesse toute personne prise dans l’aire d’effet.
 
-## Etiquettes de Porté
+## Etiquette de Porté
 
 + intime : correspond à une proximité suffisante pour embrasser la cible.
 + contact : correspond à une proximité suffisante pour toucher la cible.
