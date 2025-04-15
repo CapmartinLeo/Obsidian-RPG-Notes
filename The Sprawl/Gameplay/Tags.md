@@ -31,11 +31,8 @@
 + encombrant : cette arme ou cette armure est trop grande et gêne les mouvements. Il peut ainsi être difficile de se déplacer rapidement, discrètement, ou dans des espaces confinés en la portant. Les armes avec l’étiquette `+encombrant` nécessitent généralement une position de tir allongée ou solidement calée, ou bien une sorte d’exosquelette gyroscopique.
 + fléchettes : la valeur d’armure de la cible est doublée.
 + nombreux : ces armes sont faciles à camoufler (elles possèdent l’étiquette `+discret`) et il y en a toujours à disposition si nécessaire.
-+rapide : si la vitesse importe, les armes possédant l’étiquette
-+rapide tirent en premier.
-+recharge : après avoir fait feu, le tireur doit prendre un moment
-pour recharger l’arme.
-+perforant : la cible de munitions perforantes soustrait 2 points à
-sa valeur d’armure.
-+zone : l’arme blesse toute personne prise dans l’aire d’effet.
++ rapide : si la vitesse importe, les armes possédant l’étiquette `+rapide` tirent en premier.
++ recharge : après avoir fait feu, le tireur doit prendre un moment pour recharger l’arme.
++ perforant : la cible de munitions perforantes soustrait 2 points àsa valeur d’armure.
++ zone : l’arme blesse toute personne prise dans l’aire d’effet.
 ## Armes de Porté
