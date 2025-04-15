@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Sprawl/Ghost Protocol.md",
+                "file": "The Sprawl/Gameplay/Cybernétique.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ghost Protocol"
+              "title": "Cybernétique"
+            }
+          },
+          {
+            "id": "ca7764c3cf1418d6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ca153f3643ad7eb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5109f438aafda39d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "The Sprawl/Gameplay/The_Sprawl_VF_1.2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "The_Sprawl_VF_1.2"
             }
           }
         ]
@@ -88,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "55487f65710806ba",
@@ -186,7 +215,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 250.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,14 +231,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0647d3da0bb84283",
+  "active": "5109f438aafda39d",
   "lastOpenFiles": [
+    "The Sprawl/Gameplay/Cybernétique.md",
+    "The Sprawl/Gameplay/Maneuvres",
+    "The Sprawl/Gameplay/Untitled.md",
+    "The Sprawl/Gameplay/Tags.md",
+    "The Sprawl/Gameplay/Armes.md",
+    "The Sprawl/Gameplay/Moves",
+    "The Sprawl/Gameplay/The_Sprawl_VF_1.2.pdf",
     "The Sprawl/Lieux/New California.md",
+    "The Sprawl/Gameplay",
+    "The Sprawl/Lieux/port.md",
+    "The Sprawl/Lieux/Bas-fonts.md",
+    "Quartier-des-plaisirs.md",
+    "The Sprawl/Random notes.md",
+    "The Sprawl/Ghost Protocol.md",
     "The Sprawl/Missions/Empty.md",
     "The Sprawl/PNJ/Empty.md",
     "The Sprawl/PJ/Empty.md",
-    "The Sprawl/Ghost Protocol.md",
-    "The Sprawl/Random notes.md",
     "The Sprawl/Lore/Embargo.md",
     "The Sprawl/Lore",
     "The Sprawl/Corpos/Tokyo CybernetiX.md",
@@ -222,9 +263,6 @@
     "Templates/ShortCuts/Clock.md",
     "Untitled.canvas",
     "Templates/ShortCuts/Untitled.md",
-    "Templates/Pages",
-    "Templates/ShortCuts",
-    "Templates",
     "Decks/Tarot/21-TheWorld.png",
     "Decks/Tarot/20-Judgement.png",
     "Decks/Tarot/19-TheSun.png",
@@ -235,13 +273,11 @@
     "Decks/Tarot/14-Temperance.png",
     "Decks/Tarot/13-Death.png",
     "Decks/Tarot/12-TheHangedMan.png",
-    "Decks/Tarot",
     "The Sprawl/Killer.md",
     "The Sprawl/Hacker.md",
     "The Sprawl/CybernetiX Tower.md",
     "The Sprawl/The Sprawl.md",
     "The Sprawl/Tokyo CybernetiX.md",
-    "The Sprawl/TestClock.md",
-    "Welcome.md"
+    "The Sprawl/TestClock.md"
   ]
 }
