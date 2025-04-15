@@ -20,3 +20,4 @@
 + zoom : permet de voir avec une amplitude plus importante. Cela n’influence pas la précision avec une arme.
 
 # [[Armes]]
+## Armes de Porté
