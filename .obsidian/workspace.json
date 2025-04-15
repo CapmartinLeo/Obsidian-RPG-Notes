@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "239757b6bb6adf6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5be29853ca5cd89e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d446f2a61a6eeea8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Sprawl/Test solo RPG.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Test solo RPG"
+            }
+          },
+          {
+            "id": "71f14f80a185e115",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/ShortCuts/Clock.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clock"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a944b16220764d29",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdc22299ba0b9083",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee383c2e55beece4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "de280cbca51045ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#coucou  ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "29793f6166df2823",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "55487f65710806ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ae05b10fcd18384",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e322e5e20497234a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Sprawl/The Sprawl.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Sprawl"
+            }
+          },
+          {
+            "id": "ab0b8bcd78260fb2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The Sprawl/The Sprawl.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Sprawl"
+            }
+          },
+          {
+            "id": "e1214a3d9be8bd8e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9e89a96c82bffc1a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The Sprawl/Test solo RPG.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Test solo RPG"
+            }
+          },
+          {
+            "id": "11c7b210b726c5f6",
+            "type": "leaf",
+            "state": {
+              "type": "MAIN_VIEW",
+              "state": {},
+              "icon": "srt-ribbon",
+              "title": "Solo RPG Toolkit"
+            }
+          },
+          {
+            "id": "89fa7fabe2f575b5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "quickadd:QuickAdd": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "d446f2a61a6eeea8",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "The Sprawl/Test solo RPG.md",
+    "Templates/ShortCuts/Untitled.md",
+    "Untitled.md",
+    "Templates/ShortCuts/Clock.md",
+    "Templates/Pages",
+    "Templates/ShortCuts",
+    "Templates",
+    "Decks/Tarot/21-TheWorld.png",
+    "Decks/Tarot/20-Judgement.png",
+    "Decks/Tarot/19-TheSun.png",
+    "Decks/Tarot/18-TheMoon.png",
+    "Decks/Tarot/17-TheStar.png",
+    "Decks/Tarot/16-TheTower.png",
+    "Decks/Tarot/15-TheDevil.png",
+    "Decks/Tarot/14-Temperance.png",
+    "Decks/Tarot/13-Death.png",
+    "Decks/Tarot/12-TheHangedMan.png",
+    "Decks/Tarot",
+    "Decks/Standard",
+    "Decks",
+    "The Sprawl/Killer.md",
+    "The Sprawl/Hacker.md",
+    "The Sprawl/CybernetiX Tower.md",
+    "The Sprawl/The Sprawl.md",
+    "The Sprawl/Tokyo CybernetiX.md",
+    "The Sprawl/TestClock.md",
+    "The Sprawl",
+    "Welcome.md"
+  ]
+}
