@@ -10,14 +10,5 @@
 Wounds ` ` `1`
 Stress ` ` `2`
 
-test test 1 2 
-`b|36: 1/6`
-
-hello mister
-
-i am trying the new commit feature.
-
-**Clock title**
-`b|36: 1/6`
-
-test coucou
+### Wound
+`b|36: 0/6`
