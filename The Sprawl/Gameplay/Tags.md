@@ -28,12 +28,9 @@
 + connecté : l’arme peut être reliée à une interface neurale (et un logiciel de visée).
 + dangereux : sur un raté, le tireur subit des dégâts.
 + discret : l’arme peut aisément être camouflée et sera souvent négligée lors d’une fouille.
-+ encombrant : cette arme ou cette armure est trop grande et gêne les mouvements. Il peut ainsi être difficile de se déplacer rapidement, discrètement, ou dans des espaces confinés en la portant. Les armes avec l’étiquette +encombrant nécessitent généralement une
-position de tir allongée ou solidement calée, ou bien une sorte d’exos-
-quelette gyroscopique.
-+fléchettes : la valeur d’armure de la cible est doublée.
-+nombreux : ces armes sont faciles à camoufler (elles possèdent
-l’étiquette +discret) et il y en a toujours à disposition si nécessaire.
++ encombrant : cette arme ou cette armure est trop grande et gêne les mouvements. Il peut ainsi être difficile de se déplacer rapidement, discrètement, ou dans des espaces confinés en la portant. Les armes avec l’étiquette `+encombrant` nécessitent généralement une position de tir allongée ou solidement calée, ou bien une sorte d’exosquelette gyroscopique.
++ fléchettes : la valeur d’armure de la cible est doublée.
++ nombreux : ces armes sont faciles à camoufler (elles possèdent l’étiquette `+discret`) et il y en a toujours à disposition si nécessaire.
 +rapide : si la vitesse importe, les armes possédant l’étiquette
 +rapide tirent en premier.
 +recharge : après avoir fait feu, le tireur doit prendre un moment
